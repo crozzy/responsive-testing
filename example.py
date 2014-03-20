@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from responsive_testing import LiveServerTestCase
 from django.core.urlresolvers import reverse
 

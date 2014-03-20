@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """ This is a wrapper for the django.test.LiveServerTestCase
     that is useful for testing responsive design features.
     Requires selenium and a running instance of xvfb or
